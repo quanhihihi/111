@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartRoomGoblin.unity
+    guid: e14ea0d5c8435b842933f4ec437a4b51
+  - enabled: 1
+    path: Assets/Scenes/RoomGoblin1.unity
+    guid: 2280793353178eb40a5d35f8c65c1dbd
+  - enabled: 1
+    path: Assets/Scenes/RoomGoblin2.unity
+    guid: b664d9faeca88274fab4a5a33fa71e98
+  - enabled: 1
+    path: Assets/Scenes/Character.unity
+    guid: ef731b07fb67e3342b24b89b630b077f
+  - enabled: 1
+    path: Assets/Scenes/BossRoomGoblin.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
